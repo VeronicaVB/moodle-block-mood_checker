@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21 Mar. 2020, 6:28:40 pm
+    Author     : veronica
+*/
+
+section.block_mood_checker.block.no-header.card.mb-3 {
+    background-color: rgb(126,187,227);
+    text-align: center;
+}
+
+.mood{
+    font-family: FontAwesome; 
+    font-size: 3.5em;
+    text-align: center;
+    color: #fff;
+    font-weight: 400;
+}
+
+.mood-title{
+    font-size: 1.5rem;
+    color: rgb(253,180,20);
+    font-weight: 500;
+}
+
+mood-results{
+    margin-top: 15px;
+}
+
